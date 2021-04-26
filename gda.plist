@@ -14,7 +14,7 @@
      <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
-     <string>https://github.com/secretcy/ipa/raw/25d333473862829282dc0f89477fba244f604c7b/gda.ipa</string>
+     <string>https://raw.githubusercontent.com/secretcy/ipa/main/gda.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
